@@ -1,5 +1,10 @@
 # Navodita Amit Singh – Resume
 
+Hi, I'm Navodita Singh 👋
+
+🎓 B.Tech Electronics & Computer Science (CGPA: 9.36)
+💡 Focus: Data Automation • Backend Development • Computer Vision
+
 📄 This repository contains my latest professional resume.
 
 ## 🔗 View / Download
@@ -10,17 +15,22 @@
 
 ## 👩‍💻 About Me
 
-B.Tech Electronics & Computer Science student focused on backend development, automation, and computer vision.
-Experienced in building real-time systems and API-based workflows.
-
+I build automation systems and real-time applications using Python, APIs, and computer vision.
+I also develop backend systems with databases to support scalable and reliable workflows.
 ---
 
-## 🛠 Skills
-
-Python • SQL • PostgreSQL • FastAPI • OpenCV • MediaPipe • IoT
+## 🛠 Tech Stack
+- Languages: Python, SQL, C++ (Arduino)
+- Automation: n8n, APIs, Workflow Logic
+- Backend: FastAPI, PostgreSQL (learning & building)
+- Libraries: OpenCV, MediaPipe, NumPy, Pandas
+- Tools: Git, VS Code
+- IoT: ESP8266, Arduino
 
 ---
 
 ## 📫 Contact
 
 🔗 LinkedIn: https://www.linkedin.com/in/navodita-singh-7350a3299
+
+⭐ Currently building: Smart Task Manager API (Backend + Automation)
