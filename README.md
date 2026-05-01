@@ -4,7 +4,7 @@
 
 ## 🔗 View / Download
 
-👉 [view my resume](https://github.com/Navodita02/Resume/blob/main/Navodita_Amit_Singh_Resume.pdf)
+👉 [view my resume](Navodita_Amit_Singh_Resume.pdf.pdf)
 
 ---
 
