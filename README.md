@@ -9,7 +9,7 @@ Hi, I'm Navodita Singh 👋
 
 ## 🔗 View / Download
 
-👉 [view my resume](Navodita_Amit_Singh_Resume.pdf.pdf)
+👉 [view my resume](Navodita_Singh_Resume_Analyst.pdf)
 
 ---
 
